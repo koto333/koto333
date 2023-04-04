@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kotomi
-- 👀 I’m interested in Statistical computing, R, Food, and Netflix
-- 🌱 I’m currently learning statistical analysis in R, SQL
+- 👀 I’m interested in Big Data, Statistics, Food, and Netflix
+- 🌱 I’m currently learning Statistical Analyses in R, SQL, Python
 - 💞️ I’m looking to collaborate on interesting big data projects.
 
 
