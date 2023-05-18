@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kotomi :bubble_tea::ramen::sushi:
+- :raising_hand_woman: Hi, I’m Kotomi :bubble_tea::ramen::sushi:
+- :mortar_board: I recently graduated with a Master's degree in Statistics with Data Science from California State University, East Bay.
 - 👀 I’m interested in Bio Tech, Statistics, and Social Impact.
 - 🌱 I’m currently learning Statistical Analyses and Data Science in R, SQL, and SAS.
 - 💞️ I’m looking to collaborate on interesting big data projects.
-- :mortar_board: I recently graduated with a Master's degree in Statistics with Data Science from California State University, East Bay.
 
 
 <!---
