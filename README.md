@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kotomi
-- 👀 I’m interested in Big Data, Statistics, Food, and Netflix
+- 👀 I’m interested in Bio Tech, Statistics, Food, and Netflix
 - 🌱 I’m currently learning Statistical Analyses in R, SQL, Python
 - 💞️ I’m looking to collaborate on interesting big data projects.
 
