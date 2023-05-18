@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kotomi :bubble_tea: :ramen: :sushi:
+- 👋 Hi, I’m Kotomi :bubble_tea::ramen::sushi:
 - 👀 I’m interested in Bio Tech, Statistics, and Social Impact.
 - 🌱 I’m currently learning Statistical Analyses and Data Science in R, SQL, and SAS.
 - 💞️ I’m looking to collaborate on interesting big data projects.
